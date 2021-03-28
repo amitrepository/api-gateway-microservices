@@ -10,10 +10,10 @@
 
 Useful url: 
 
-#Order service  Url : localhost:8989/order/bookOrder
-#Payment service  url : localhost:8989/payment/5
-#Service registry eureka : http://localhost:8761/
-H2 console url : http://localhost:9192/h2-console/login.jsp?jsessionid=6506969689f31f16525ea6e39a66c870
+# Order service  Url : localhost:8989/order/bookOrder
+# Payment service  url : localhost:8989/payment/5
+# Service registry eureka : http://localhost:8761/
+# H2 console url : http://localhost:9192/h2-console/login.jsp?jsessionid=6506969689f31f16525ea6e39a66c870
 # url : localhost:9192/order/bookOrder
 
-#reference site url : http://www.masterspringboot.com/cloud/netflix/configuring-hystrix-dashboard-in-your-spring-boot-application
+# reference site url : http://www.masterspringboot.com/cloud/netflix/configuring-hystrix-dashboard-in-your-spring-boot-application
