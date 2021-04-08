@@ -4,12 +4,12 @@ Two Microservice
 1. Order-service 
 2. Payment-service
 
-Register this two service inside Eureka Service , then this Microservices can talk to each other(Using Eureka service registry).
 
-![image](https://user-images.githubusercontent.com/51286655/114024495-bfc57200-9891-11eb-8326-d52287815589.png)
+#Register this two service inside Eureka Service , then this Microservices can talk to each other(Using Eureka service registry).
 
+![image](https://user-images.githubusercontent.com/51286655/114025002-48441280-9892-11eb-9cfb-4d0593394f48.png)
 
-Api-Gateway: It will help us to autodirect our request to order(/order) or payment(/payment).
+#Api-Gateway: It will help us to autodirect our request to order(/order) or payment(/payment).
 
 # Hystrix Dashboard provides benefits to monitoring the set of metrics on a dashboard.
 # It displays the health of each circuit-breaker in a very simple way.
